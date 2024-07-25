@@ -33,3 +33,12 @@ git branch
 ### apps para la gestion de repos git
 
 * git hub desktop
+
+
+# Fusiones (merge) de ramas (branches)
+
+## comparando contenido de las diferentes ramas
+
+git diff <nombre-rama-a-comparar>
+
+git dif <nombre-rama-1> ... <nombre-rama-n>
