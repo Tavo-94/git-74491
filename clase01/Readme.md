@@ -91,3 +91,9 @@ git branch -D feature/navbar
 git diff <nombre-rama-a-comparar>
 
 git dif <nombre-rama-1> ... <nombre-rama-n>
+
+## tipos de fusiones
+
+* Fusion -> fast-foward (automatica)
+* fusion tre vias: genera un commit intermedio entre los ultimos commits de las ramas involucradas -> automatica
+* fusion -> manual: git me pide solucionar el conflicto
