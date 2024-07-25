@@ -3,6 +3,9 @@
 
 ### se cambio el index para testear
 
+### listar una cantidad especifica de commits en el log
+
+git log --oneline - <cantidad>
 
 ### git ignore
 
