@@ -24,4 +24,6 @@ Testeando se agrego esta linea al ultimo commit
 ## Ramas o branches
 Nos permiten trabajar en el proyecto de manera auxiliar
 
+### listar ramas
+git branch
 
