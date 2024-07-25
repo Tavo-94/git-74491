@@ -18,3 +18,10 @@ Se crea un archivo vacio .gitkeep para poder agregar al commit una carpeta vacia
 ### git commit --amend
 Sirve para agregar cambios al ultimo commit
 Testeando se agrego esta linea al ultimo commit
+
+
+
+## Ramas o branches
+Nos permiten trabajar en el proyecto de manera auxiliar
+
+
