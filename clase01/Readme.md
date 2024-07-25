@@ -27,3 +27,9 @@ Nos permiten trabajar en el proyecto de manera auxiliar
 ### listar ramas
 git branch
 
+### visualizacion de ramas en vsc
+* mhutche.git-graph
+
+### apps para la gestion de repos git
+
+* git hub desktop
