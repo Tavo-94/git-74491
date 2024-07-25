@@ -24,6 +24,29 @@ Testeando se agrego esta linea al ultimo commit
 ## Ramas o branches
 Nos permiten trabajar en el proyecto de manera auxiliar
 
+### Crear una rama
+
+git branch <nombre-rama>
+git branch feature/navbar
+git branch feature/footer
+
+
 ### listar ramas
 git branch
+
+## Moverme entre ramas
+
+``
+git switch <nombre-rama>
+git switch feature/rama
+
+``
+## Moverme y crear rama
+
+``sh
+
+git switch -c <nombre-rama>
+git switch -c feature/navbar
+
+``
 
