@@ -50,3 +50,26 @@ git switch -c feature/navbar
 
 ``
 
+### ver todas las ramas del repositorio en el log
+
+```sh
+git log --oneline --all --graph --decorate
+
+```
+
+### ver detalle de las ramas y su ultimo commit
+
+git branch -v
+
+### borrar una rama
+
+git branch -d <nombre-rama>
+git branch -d feature/navbar
+
+### borrar rama de forma forzada
+
+se fuerza si los cambios de esta rama no estan guardados en ningun otro lado
+
+
+git branch -D <nombre-rama>
+git branch -D feature/navbar
