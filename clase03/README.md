@@ -4,3 +4,9 @@
 
 ### Estrategia de ramas basica
 ![estructuras-ramas](_ref/estrategiaBranches.webp)
+
+## creando una rama
+
+```sh
+git branch <nombre-rama>
+```
