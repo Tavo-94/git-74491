@@ -28,3 +28,12 @@ git switch <nombre-rama>
 ```sh
 git switch -
 ```
+## borrado de ramas
+
+```sh
+git banch -d <nombre-rama>
+```
+Forzando el borrado con -D
+```sh
+git banch -D <nombre-rama>
+```
