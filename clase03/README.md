@@ -62,3 +62,8 @@ git merge feature/branches
 * fast-foward: todo sale bien y el merge es automatico
 * 3 way merge: se crea un commit intermedio y luego se realiza el merge. Sigue siendo automatico
 * Merge Conflict: es manual y sucede cuando git no puede inferir con que cambios quedarse.
+
+## clientes de git con GUI
+
+* Github desktop <https://github.com/apps/desktop>
+
