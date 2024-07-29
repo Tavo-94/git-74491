@@ -66,4 +66,6 @@ git merge feature/branches
 ## clientes de git con GUI
 
 * Github desktop <https://github.com/apps/desktop>
+* Git kraken
+
 
